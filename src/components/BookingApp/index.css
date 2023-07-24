@@ -1,0 +1,40 @@
+.head-container {
+  background-color: skyblue;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: black;
+  font-family: 'roboto';
+}
+.point-a {
+  color: black;
+  background-color: white;
+  border: 1px black;
+  margin-bottom: 10px;
+}
+.point-b {
+  color: black;
+  background-color: white;
+  border: 1px black;
+  margin-bottom: 10px;
+}
+.button {
+  color: black;
+  background-color: lightgoldenrodyellow;
+  height: 30px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.vehicle {
+  color: black;
+}
+.vehicle-list {
+  color: black;
+  padding: 5px;
+}
